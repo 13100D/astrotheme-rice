@@ -1,9 +1,9 @@
 # astrotheme-rice
 dotfiles for new rice wip (colorpallette yoinked from astronvim)
 
-# My Color Palette
+# astrotheme-dark Color Palette
 
-Here is a collection of colors used in my theme:
+Hex codes from existing color pallette
 
 ## Syntax Colors
 
